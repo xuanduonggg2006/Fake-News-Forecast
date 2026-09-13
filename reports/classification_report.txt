@@ -1,0 +1,10 @@
+Độ chính xác: 98.92%
+
+              precision    recall  f1-score   support
+
+        REAL       0.99      0.99      0.99      4283
+        FAKE       0.99      0.99      0.99      4701
+
+    accuracy                           0.99      8984
+   macro avg       0.99      0.99      0.99      8984
+weighted avg       0.99      0.99      0.99      8984
